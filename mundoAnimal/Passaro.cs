@@ -1,18 +1,22 @@
 namespace taxonomiaCSharp.mundoAnimal;
 
-public class Passaro : Animal, Aves
+public class Passaro : Voador, Oviparo
 {
     public void Bicar()
     {
         Console.WriteLine("Estou bicando.");
     }
 
-    public void Voar()
+    public void BotarOvo()
     {
-        Console.WriteLine("Estou voando.");
+        Console.WriteLine("Coloquei um ovo.");
     }
 
-    public Passaro() : base() { }
-    public Passaro(string especie) : base(especie) { }
-    public Passaro(string especie, string nome) : base(especie, nome) { }
+    public void Chocar()
+    {
+        Console.WriteLine("Estou chocando um ovo.");
+    }
+
+    public Passaro(string especie = "", string nome = "", int idade = 0, string ordem = "Omnívoro") : base(especie, nome, idade, ordem) { }
+
 }

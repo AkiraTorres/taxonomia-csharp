@@ -1,8 +1,8 @@
 namespace taxonomiaCSharp.mundoAnimal;
 
-public class Humano : Animal
+public class Humano : Terrestre, Viviparo
 {
-    private string? Cpf { get; set; }
+    public string? Cpf { get; private set; }
 
     public void Pensar()
     {
@@ -14,7 +14,20 @@ public class Humano : Animal
         Console.WriteLine("Estou falando.");
     }
 
-    public Humano() : base() { }
-    public Humano(string especie) : base(especie) { }
-    public Humano(string especie, string nome) : base(especie, nome) { }
+    public override void Andar()
+    {
+        Console.WriteLine("Estou andando em duas pernas.");
+    }
+
+    public void Gravidez()
+    {
+        Console.WriteLine("Estou gestando uma gravidez.");
+    }
+
+    public void Parir()
+    {
+        Console.WriteLine("Estou parindo.");
+    }
+
+    public Humano(string nome = "", int idade = 0, string ordem = "Omnívoro") : base(nome, idade, ordem) { }
 }
