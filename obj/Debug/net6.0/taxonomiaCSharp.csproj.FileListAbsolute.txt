@@ -1,0 +1,15 @@
+/home/akira/dev/taxonomiaCSharp/bin/Debug/net6.0/taxonomiaCSharp
+/home/akira/dev/taxonomiaCSharp/bin/Debug/net6.0/taxonomiaCSharp.deps.json
+/home/akira/dev/taxonomiaCSharp/bin/Debug/net6.0/taxonomiaCSharp.runtimeconfig.json
+/home/akira/dev/taxonomiaCSharp/bin/Debug/net6.0/taxonomiaCSharp.dll
+/home/akira/dev/taxonomiaCSharp/bin/Debug/net6.0/ref/taxonomiaCSharp.dll
+/home/akira/dev/taxonomiaCSharp/bin/Debug/net6.0/taxonomiaCSharp.pdb
+/home/akira/dev/taxonomiaCSharp/obj/Debug/net6.0/taxonomiaCSharp.csproj.AssemblyReference.cache
+/home/akira/dev/taxonomiaCSharp/obj/Debug/net6.0/taxonomiaCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/akira/dev/taxonomiaCSharp/obj/Debug/net6.0/taxonomiaCSharp.AssemblyInfoInputs.cache
+/home/akira/dev/taxonomiaCSharp/obj/Debug/net6.0/taxonomiaCSharp.AssemblyInfo.cs
+/home/akira/dev/taxonomiaCSharp/obj/Debug/net6.0/taxonomiaCSharp.csproj.CoreCompileInputs.cache
+/home/akira/dev/taxonomiaCSharp/obj/Debug/net6.0/taxonomiaCSharp.dll
+/home/akira/dev/taxonomiaCSharp/obj/Debug/net6.0/ref/taxonomiaCSharp.dll
+/home/akira/dev/taxonomiaCSharp/obj/Debug/net6.0/taxonomiaCSharp.pdb
+/home/akira/dev/taxonomiaCSharp/obj/Debug/net6.0/taxonomiaCSharp.genruntimeconfig.cache
